@@ -284,12 +284,11 @@ any input occupancy array.
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{borshon2025heaformer,
-  title   = {HEAFormer: A Site-Occupancy Transformer with Physics-Constrained Learning for Short-Range Order in High-Entropy Alloys},
-  author  = {Borshon, Ishraque Zaman},
-  journal = {npj Computational Materials},
-  year    = {2026},
-  note    = {Under preparation}
+@misc{borshon2026heaformer,
+  title  = {HEAFormer: A Site-Occupancy Transformer with Physics-Constrained Learning for Short-Range Order in High-Entropy Alloys},
+  author = {Borshon, Ishraque Zaman},
+  year   = {2026},
+  note   = {Manuscript in preparation}
 }
 ```
 
