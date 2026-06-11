@@ -23,6 +23,11 @@ chemically complex materials, and a physics-informed fine-tuning loss
 enforcing Warren-Cowley sum rules improves prediction fidelity relative
 to composition-only or local-average baselines.
 
+
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/3309c631-eadc-4a4c-b10b-e4d4a99bc6cd" />
+
+
+
 ### Key contributions
 
 | Contribution | Description |
