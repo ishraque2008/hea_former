@@ -287,9 +287,9 @@ If you use this code in your research, please cite:
 @article{borshon2025heaformer,
   title   = {HEAFormer: A Site-Occupancy Transformer with Physics-Constrained
              Learning for Short-Range Order in High-Entropy Alloys},
-  author  = {Borshon, Ishraque Zaman and Yurkiv, Vitaliy},
+  author  = {Borshon, Ishraque Zaman},
   journal = {npj Computational Materials},
-  year    = {2025},
+  year    = {2026},
   note    = {Under preparation}
 }
 ```
